@@ -1,1 +1,1 @@
-# SQL-project-on-IPL-datasets
+# SQL-project-on-IPL-dataset
